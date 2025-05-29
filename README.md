@@ -48,13 +48,13 @@ Click the Restart button to start a new round.
 
 ## 🧠 Code Overview
 
-next_turn(row, column): Handles game logic for each turn.
+`next_turn(row, column)`: Handles game logic for each turn.
 
-check_winner(): Checks rows, columns, and diagonals for a win or tie.
+`check_winner()`: Checks rows, columns, and diagonals for a win or tie.
 
-empty_spaces(): Counts empty tiles to determine a tie.
+`empty_spaces()`: Counts empty tiles to determine a tie.
 
-new_game(): Resets the game board and starts a new game.
+`new_game()`: Resets the game board and starts a new game.
 
 ---
 
